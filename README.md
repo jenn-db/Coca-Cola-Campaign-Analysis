@@ -1,5 +1,4 @@
 # Coca-Cola-Campaign-Analysis
-Analyzing Coca Cola's Instagram Campaign
 
 ## Task Description
 
@@ -10,9 +9,10 @@ Finally, I created a presentation to:
 * Explain each chart in the Tableau and suggest actionanble items.
 * Recommend personas.
 * Make recommendations based on findings for next campaigns.
-  
+
+## Results
 
 * [Coca-Cola Powerpoint](https://drive.google.com/file/d/1HMaX-PeBZGe0LD78E5EpYUnQvUaAvbFj/view?usp=sharing)
-* ([csv file](https://github.com/jenn-db/Coca-Cola-Campaign-Analysis/blob/main/Coke_IG_posts.csv)
+* [csv file](https://github.com/jenn-db/Coca-Cola-Campaign-Analysis/blob/main/Coke_IG_posts.csv)
 * [Tableau Dashboard](https://public.tableau.com/views/coke_16932534217670/CampaignDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 * [Data](https://github.com/jenn-db/Coca-Cola-Campaign-Analysis/blob/main/Coke_IG_posts.csv).
